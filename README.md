@@ -5,13 +5,13 @@
 King of Knowledge is a question-answer game, developed using `Qt` framework and `socket programming`
 
 ## Preview
-* About page
+* About page  
 ![](https://i.imgur.com/RSVQLPZ.png)
 
-* Game page
+* Game page  
 ![](https://i.imgur.com/lhWoALz.png)
 
-* Rank page
+* Rank page  
 ![](https://i.imgur.com/iwkFVPy.png)
 
 ---
@@ -24,8 +24,7 @@ download the `King_of_Knowledge.zip` file in [Releases](https://github.com/allen
 
 
 ### Server
-download the `Server.zip` file in [Releases](https://github.com/allenlin316/King_of_Knowledge/releases/tag/v1.0.0-release), run the `server.exe`.
-
+download the `Server.zip` file in [Releases](https://github.com/allenlin316/King_of_Knowledge/releases/tag/v1.0.0-release), run the `server.exe`, and
 you will see two database files which are `Questions.db` and `Rank.db` in the Server folder. They are the questions and players' scores I set up by default. You could customize your own questions by following
 * download [DB Browser for SQLite](https://sqlitebrowser.org/dl/) to customize your own question or even Rank in both `Questions.db` and `Rank.db`
 
