@@ -20,7 +20,7 @@ King of Knowledge is a question-answer game, developed using `Qt` framework and 
 open two clients `.exe` and a server, then you are free to play 
 
 ### Client 
-download the `King_of_Knowledge.zip` file in [Releases](https://github.com/allenlin316/King_of_Knowledge/releases/tag/v1.0.0-release), open up ==two== of the `King_of_Knowledge.exe` file in order to represent two clients
+download the `King_of_Knowledge.zip` file in [Releases](https://github.com/allenlin316/King_of_Knowledge/releases/tag/v1.0.0-release), open up `two` of the `King_of_Knowledge.exe` file in order to represent two clients
 
 
 ### Server
